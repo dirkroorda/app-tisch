@@ -35,6 +35,7 @@ STANDARD_FEATURES = '''
 
 qere ketiv 
 book chapter verse book_code
+gloss
 
 '''.strip().split()
 
