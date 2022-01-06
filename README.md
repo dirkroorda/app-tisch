@@ -4,9 +4,6 @@
 [![DOI](https://zenodo.org/badge/194737871.svg)](https://zenodo.org/badge/latestdoi/194737871)
 [![Project Status: Unsupported – The project has reached a stable, usable state but the author(s) have ceased all work on it. A new maintainer may be desired.](https://www.repostatus.org/badges/latest/unsupported.svg)](https://www.repostatus.org/#unsupported)
 
-Find the corpus and its info [here](https://github.com/codykingham/tischendorf_tf).
-
-
 # Author
 
 [Dirk Roorda](https://github.com/dirkroorda)
